@@ -3,7 +3,7 @@
 #include <vector>
 #include <deque>
 
-#include "shapes.h"
+#include "shapes.hpp"
 #include "universals.hpp"
 #include "tetramino.hpp"
 
