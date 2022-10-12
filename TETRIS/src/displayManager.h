@@ -8,7 +8,7 @@
 #include "SDL_ttf.h"
 #include "SDL_image.h"
 
-#include "shapes.h"
+#include "shapes.hpp"
 #include "board.h"
 
 
