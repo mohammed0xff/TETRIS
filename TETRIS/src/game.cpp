@@ -3,7 +3,7 @@
 #include <utility>
 
 #include "tetramino.hpp"
-#include "game.h"
+#include "game.hpp"
 
 
 
