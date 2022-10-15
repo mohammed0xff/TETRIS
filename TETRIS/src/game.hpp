@@ -10,7 +10,7 @@
 
 #include "SDL_mixer.h"
 
-#include "displayManager.h"
+#include "displayManager.hpp"
 
 
 class Game {
