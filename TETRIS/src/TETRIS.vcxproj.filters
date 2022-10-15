@@ -35,13 +35,13 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="displayManager.h">
+    <ClInclude Include="displayManager.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="game.h">
+    <ClInclude Include="game.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="shapes.h">
+    <ClInclude Include="shapes.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="tetramino.hpp">
@@ -50,7 +50,7 @@
     <ClInclude Include="universals.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="board.h">
+    <ClInclude Include="board.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
