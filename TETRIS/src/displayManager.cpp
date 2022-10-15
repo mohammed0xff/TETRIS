@@ -1,7 +1,7 @@
-#include "displayManager.h"
-#include "shapes.h"
+#include "displayManager.hpp"
+#include "shapes.hpp"
 #include "tetramino.hpp"
-#include "game.h"
+#include "game.hpp"
 
 
 
