@@ -9,7 +9,7 @@
 #include "SDL_image.h"
 
 #include "shapes.hpp"
-#include "board.h"
+#include "board.hpp"
 
 
 class DisplayManager
