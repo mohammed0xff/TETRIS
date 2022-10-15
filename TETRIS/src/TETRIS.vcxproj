@@ -153,10 +153,10 @@
     <ClCompile Include="tetramino.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="board.h" />
-    <ClInclude Include="displayManager.h" />
-    <ClInclude Include="game.h" />
-    <ClInclude Include="shapes.h" />
+    <ClInclude Include="board.hpp" />
+    <ClInclude Include="displayManager.hpp" />
+    <ClInclude Include="game.hpp" />
+    <ClInclude Include="shapes.hpp" />
     <ClInclude Include="tetramino.hpp" />
     <ClInclude Include="universals.hpp" />
   </ItemGroup>
